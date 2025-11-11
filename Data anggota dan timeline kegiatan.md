@@ -5,8 +5,9 @@
 ## 4. Dheo Anandika Firdaus         (24/535035/PA/22697)
 
 ### Time line kegiatan 
-#### 4 Nuvember 2025 - 9 November 2025
-1. 
-#### 10 November 2025 - 16 November 2025
-
-#### 17 November 2025 - 24 Vovember 2025
+#### 4 Nuvember 2025 - 10 November 2025
+1. codingan bisa jadi (perbaikan kecil)
+#### 11 November 2025 - 17 November 2025
+1. PPT presentasi sudah jadi
+#### 18 November 2025 - 24 Vovember 2025
+1. Siap presentasi
